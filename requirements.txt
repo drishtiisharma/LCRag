@@ -2,3 +2,5 @@ Beautifulsoup4
 tqdm
 langchain-text-splitters
 sentence-transformers
+python-dotenv
+chromadb
