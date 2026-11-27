@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 # Configuration
 # -----------------------------
 
-DB_PATH = "data/chroma_db"
+DB_PATH = "scripts/data/chroma_db"
 COLLECTION_NAME = "langchain_docs"
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
